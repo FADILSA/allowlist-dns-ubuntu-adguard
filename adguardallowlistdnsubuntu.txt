@@ -62,3 +62,10 @@
 @@||symcd.com^
 @@||verisign.com^
 @@||thawte.com^
+@@||twitter.com^
+@@||www.twitter.com^
+@@||pbs.twimg.com^
+@@||abs.twimg.com^
+@@||ton.twimg.com^
+@@||api.twitter.com^
+@@||video.twimg.com^
